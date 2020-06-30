@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.960
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestavimoUzduotis", "TestavimoUzduotis\TestavimoUzduotis.csproj", "{99165AE5-E880-459F-B86F-0252E8387DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skaiciuotuvo_UT", "Skaiciuotuvo_UT\Skaiciuotuvo_UT.csproj", "{7E114022-C1B6-40E9-895C-F154CB6ADF95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{99165AE5-E880-459F-B86F-0252E8387DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99165AE5-E880-459F-B86F-0252E8387DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99165AE5-E880-459F-B86F-0252E8387DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E114022-C1B6-40E9-895C-F154CB6ADF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E114022-C1B6-40E9-895C-F154CB6ADF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E114022-C1B6-40E9-895C-F154CB6ADF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E114022-C1B6-40E9-895C-F154CB6ADF95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\obj\Debug\Skaiciuotuvo_UT.csprojAssemblyReference.cache
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\obj\Debug\Skaiciuotuvo_UT.csproj.CoreCompileInputs.cache
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\Skaiciuotuvo_UT.dll
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\Skaiciuotuvo_UT.pdb
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\TestavimoUzduotis.exe
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\TestavimoUzduotis.pdb
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\TestavimoUzduotis.exe.config
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\obj\Debug\Skaiciuotuvo_UT.csproj.CopyComplete
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\obj\Debug\Skaiciuotuvo_UT.dll
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\Skaiciuotuvo_UT\obj\Debug\Skaiciuotuvo_UT.pdb

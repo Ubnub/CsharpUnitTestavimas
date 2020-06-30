@@ -1,0 +1,7 @@
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\TestavimoUzduotis\bin\Debug\TestavimoUzduotis.exe.config
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\TestavimoUzduotis\bin\Debug\TestavimoUzduotis.exe
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\TestavimoUzduotis\bin\Debug\TestavimoUzduotis.pdb
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\TestavimoUzduotis\obj\Debug\TestavimoUzduotis.csprojAssemblyReference.cache
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\TestavimoUzduotis\obj\Debug\TestavimoUzduotis.csproj.CoreCompileInputs.cache
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\TestavimoUzduotis\obj\Debug\TestavimoUzduotis.exe
+C:\Users\arviu\Documents\GitHub\CsharpUnitTestavimas\TestavimoUzduotis\TestavimoUzduotis\obj\Debug\TestavimoUzduotis.pdb
